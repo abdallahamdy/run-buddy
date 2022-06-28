@@ -71,11 +71,11 @@ header nav ul li a {
     padding: 10px 15px;
     font-weight: lighter;
     font-size: 1.55vw;
-}
+} 
 
 header nav ul li a:hover {
     background: var(--primary-color);
-    color: var(--secondary-color);
+    color: var(--secondary-color); 
     border-radius: 15px;
     text-shadow: none;
 }
